@@ -4,6 +4,7 @@
 a Full-Stack Developer who thrives at the intersection of creativity and technology. I architect seamless digital experiences by transforming abstract ideas into robust, user-centric applications.
 
 - 👯 I’m looking to collaborate on any project for my growth.
+- 📚 Continues Learner
 
 ### Skills
 
